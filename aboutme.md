@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: An anesthesiologist and neuroscientist, doing research about anesthesia, pain and opioids
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Chong Chen. I was born and grow up in China. I got my MD degree in China, Shanghai Jiaotong University and worked in a hospital as an anesthesiologist for about three years.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+After that, I went to Vienna Austria to pursuit my Ph.D. with Prof. Peter Jonas at IST Austria. For my Ph.D, I investigated how a synaptic protein family, called synaptotagmin, contributes to the fast-signalling property of the PV-positive interneurons. I have two publications during the 3.5 years.
 
-What else do you need?
+After graduating from IST Austria, I moved to Stanford University (then moved to UNC-chapel Hill with the lab) working on pain and opioids.
 
-### My story
+As an anesthesiologist, I dedicated to conduct research about anesthesiology (including general anesthesia, pain and opioids) in the future. I am currently searching a faculty position mainly in the Department of Anesthesiology.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Besides that, I am a father of two kids. I spend most of my leisure time with them. My hobbies including biking and fishing.
